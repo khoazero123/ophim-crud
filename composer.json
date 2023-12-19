@@ -1,7 +1,7 @@
 {
     "name": "hacoidev/crud",
     "type": "library",
-    "description": "Quickly build an admin interfaces using Laravel, CoreUI, Bootstrap and jQuery.",
+    "description": "Quickly build an admin interfaces using Laravel, CoreUI, Bootstrap and jQuery. Overrided by me",
     "keywords": [
         "backpack",
         "base",
